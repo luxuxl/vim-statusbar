@@ -142,7 +142,7 @@ let s:_lightline = {
       \   'subseparator': { 'left': '|', 'right': '|' },
       \   'tabline_separator': {},
       \   'tabline_subseparator': {},
-      \   'enable': { 'statusline': 1, 'tabline': 1 },
+      \   'enable': { 'statusline': 1, 'tabline': 0 },
       \   '_mode_': {
       \     'n': 'normal', 'i': 'insert', 'R': 'replace', 'v': 'visual', 'V': 'visual', "\<C-v>": 'visual',
       \     'c': 'command', 's': 'select', 'S': 'select', "\<C-s>": 'select', 't': 'terminal'
