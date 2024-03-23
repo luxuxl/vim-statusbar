@@ -133,7 +133,7 @@ let s:_lightline = {
       \     'filename': 'lightline#tab#filename', 'modified': 'lightline#tab#modified',
       \     'readonly': 'lightline#tab#readonly', 'tabnum': 'lightline#tab#tabnum'
       \   },
-      \   'colorscheme': 'jellybeans',
+      \   'colorscheme': 'wombat',
       \   'mode_map': {
       \     'n': 'NORMAL', 'i': 'INSERT', 'R': 'REPLACE', 'v': 'VISUAL', 'V': 'V-LINE', "\<C-v>": 'V-BLOCK',
       \     'c': 'COMMAND', 's': 'SELECT', 'S': 'S-LINE', "\<C-s>": 'S-BLOCK', 't': 'TERMINAL'
